@@ -1,5 +1,9 @@
 # Use Markdown Architectural Decision Records
 
+* Status: Proposed
+* Deciders: Matt Simner
+* Date: 2024-09-17
+
 ## Context and Problem Statement
 
 We want to record architectural decisions made in this project.
